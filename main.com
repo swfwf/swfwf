@@ -1,5 +1,13 @@
 body {
   font-family: sans-serif;
+  background-color: yellow;
+  color: blue;
+}
+
+h1, p {
+  font-weight: bold;
+  color: darkblue; /* Сделаем текст ярче с помощью изменения оттенка */
+
 }
 
 header {
@@ -30,6 +38,11 @@ h1 {
   text-align: center;
   color: #2AB428;
   font-size: 96px;
+  font-weight: bold;
+  color: darkblue; 
+}
+
+
 }
 
 p {
